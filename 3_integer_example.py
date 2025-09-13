@@ -1,0 +1,2 @@
+# Integer
+age = 25
